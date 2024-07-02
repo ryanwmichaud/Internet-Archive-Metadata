@@ -10,7 +10,7 @@ For Linux:
 
 
 # Running the Program
-The program expects the unique identifier for the colelction to defined in the `collection_identifier` variable. This can be found from the Internet Archive website by clicking the "About" tab and scrolling down to the "Identifier" field under "Collection Info". 
+The program expects the unique identifier for the collection to defined in the `collection_identifier` variable. This can be found from the Internet Archive website by clicking the "About" tab and scrolling down to the "Identifier" field under "Collection Info". 
 
 Run the program with `python3 export.py`
 
